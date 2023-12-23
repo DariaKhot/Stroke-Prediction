@@ -28,12 +28,19 @@ This project aims to predict strokes using various data mining techniques in R a
 
 ### Tools and Technologies
 - **Language:** R
-- **Libraries:** [List R libraries used, e.g., `dplyr`, `ggplot2`, `caret`]
-- **Environment:** [Development environment, e.g., RStudio, Jupyter Notebook]
+- **Libraries:** ggplot2,broom,lattice,caret,ROSE,tree,class,randomForest
+- **Environment:** RStudio
 
 ### Installation and Setup
 Instructions for installing R and any necessary libraries, along with environment setup instructions.
 
 ```R
-# Sample installation code
-install.packages("dplyr")
+# Installation code
+install.packages(ggplot2)
+install.packages(broom)
+install.packages(lattice)
+install.packages(caret)
+install.packages(ROSE)
+install.packages(tree)
+install.packages(class)
+install.packages(randomForest)

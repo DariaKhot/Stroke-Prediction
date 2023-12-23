@@ -7,7 +7,7 @@ This project aims to predict strokes using various data mining techniques in R a
 ### Dataset Description
 - **Source:** [https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 - **Features:**
-- 1) id: unique identifier
+  1) id: unique identifier
   2) gender: "Male", "Female" or "Other"
   3) age: age of the patient
   4) hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension
@@ -19,8 +19,7 @@ This project aims to predict strokes using various data mining techniques in R a
   10) bmi: body mass index
   11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
   12) stroke: 1 if the patient had a stroke or 0 if not
-- **Target Variable:**
-- Label was the stroke feature
+- **Target Variable:** Stroke feature
 
 ### Objectives
 - Understanding the risk factors associated with strokes.

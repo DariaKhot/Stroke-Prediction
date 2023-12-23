@@ -33,7 +33,7 @@ This project aims to predict strokes using various data mining techniques in R a
 
 ### Installation and Setup
 Instructions for installing R and any necessary libraries, along with environment setup instructions.
-
+- **Enviorment:** Need to have Rstudio downloaded, refer to this website: https://posit.co/download/rstudio-desktop/
 ```R
 # Installation code
 install.packages(ggplot2)

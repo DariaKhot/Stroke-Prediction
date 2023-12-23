@@ -5,7 +5,6 @@ library(lattice)
 library(caret)
 library(ROSE)
 library(tree)
-library(caret)
 library(class)
 library(randomForest)
 #Clearing data

@@ -1,5 +1,4 @@
-# 🧠 Stroke Prediction Project – CIS 3920 (Baruch College)  
-
+# 🧠 Stroke Prediction Project 
 ![Language](https://img.shields.io/badge/Language-R-blue)  
 ![Environment](https://img.shields.io/badge/Environment-RStudio-orange)  
 ![Status](https://img.shields.io/badge/Status-Completed-success)  
